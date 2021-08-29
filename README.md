@@ -1,6 +1,6 @@
 # AWS-Bees-Object-Detection
 
-## Creating a training job for Bees Imgaes uSing Amazon SageMaker Object Detection algorithm.
+## Creating a training job for Bees Imgaes Using Amazon SageMaker Object Detection algorithm.
 
 ## Downlaod [ AWS bees object detection.html ] file and open it using browser.
 
